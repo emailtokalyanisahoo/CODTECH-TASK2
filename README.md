@@ -24,6 +24,13 @@
      IDENTIFYING TRENDS AND CORRELATIONS
      UNDERSTANDING DISTRIBUTION
      COMPARING MULTIPLE CATEGORIES
+
+
+     ![Screenshot (17)](https://github.com/user-attachments/assets/5b5f7e51-11f7-43c5-b137-8dcdd6fb6130)
+
+
+
+     
     
     
     
