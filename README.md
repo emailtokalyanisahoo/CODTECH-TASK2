@@ -26,7 +26,7 @@
      COMPARING MULTIPLE CATEGORIES
 
 
-     ![Screenshot (17)](https://github.com/user-attachments/assets/5b5f7e51-11f7-43c5-b137-8dcdd6fb6130)
+     ![Image](https://github.com/user-attachments/assets/df0ed7a7-5188-46cc-aeca-b34db8cc0a57)
 
 
 
