@@ -25,7 +25,10 @@
      UNDERSTANDING DISTRIBUTION
      COMPARING MULTIPLE CATEGORIES
 
-     <img width="960" alt="Image" src="https://github.com/user-attachments/assets/dcb2dbc9-f216-4948-acc5-162ad8de6106" />
+     <img width="960" alt="Image" src="https://github.com/user-attachments/a
+
+Image
+ssets/dcb2dbc9-f216-4948-acc5-162ad8de6106" />
 
 
 
